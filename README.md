@@ -4,15 +4,26 @@
 ## 概要
 テレビ＆モニタリモコンアプリ
 
+
 ## 機能一覧
 - スマホからLAN内に設置したraspberry pi上に立てたnuxtにアクセスして操作
 
+
 ## 使用技術
-- raspberry pi
-- nuxt.js
+ハードウェア
+- raspberry pi zero
+- [raspberry pi zero 赤外線拡張キット](https://bit-trade-one.co.jp/adrszirs/)	
+
+frontend
+- nuxt.js(静的サイト)
+
+backend
+- node.js(apiサーバ)
+
 
 ## URL
 https://yayuji-demo-ctrlhomegadget.firebaseapp.com/tv
+
 
 ## portfolio
 https://yujiyabe.github.io/portfolio
