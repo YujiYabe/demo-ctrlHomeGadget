@@ -6,7 +6,7 @@
 
 
 ## 機能一覧
-- スマホからLAN内に設置したraspberry pi上に立てたnuxtにアクセスして操作
+- LAN内に設置したraspberry pi上に立てたnuxtにスマホからアクセスして操作
 
 
 ## 使用技術
